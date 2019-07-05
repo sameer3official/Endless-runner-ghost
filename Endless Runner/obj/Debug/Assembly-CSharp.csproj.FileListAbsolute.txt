@@ -1,0 +1,2 @@
+C:\Users\acer\Desktop\EndlessRunnerSeries\EndlessRunnerYoutube\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\acer\Desktop\EndlessRunnerSeries\EndlessRunnerYoutube\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
