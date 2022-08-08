@@ -1,2 +1,2 @@
 # Endless-runner-ghost
-An Android game made by following the unity tutorials for education purposes.
+A game which calculates the player's max points  in an Endless running segment.
